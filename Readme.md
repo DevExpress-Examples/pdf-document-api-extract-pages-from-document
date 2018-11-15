@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/ExtractDocumentPages/Program.cs) (VB: [Program.vb](./VB/ExtractDocumentPages/Program.vb))
+<!-- default file list end -->
 # How to extract pages from a document
 
 
