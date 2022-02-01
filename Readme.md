@@ -8,7 +8,7 @@
 
 * [Program.cs](./CS/ExtractFirstPage/Program.cs) (VB: [Program.vb](./VB/ExtractFirstPage/Program.vb))
 <!-- default file list end -->
-# How to extract pages from a document
+# PDF Document API - Extract Pages from a Document
 
 
 This example shows how to extract pages from a document into a separate PDF document.
