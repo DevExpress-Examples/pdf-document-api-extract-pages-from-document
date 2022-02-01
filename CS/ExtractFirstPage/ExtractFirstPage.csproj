@@ -7,8 +7,8 @@
     <ProjectGuid>{93049385-7EF8-45DD-AE84-07F9DE05E7B0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExtractDocumentPages</RootNamespace>
-    <AssemblyName>ExtractDocumentPages</AssemblyName>
+    <RootNamespace>ExtractFirstPage</RootNamespace>
+    <AssemblyName>ExtractFirstPage</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
