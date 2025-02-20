@@ -17,7 +17,6 @@ This example shows how to use the [PdfDocument.Pages](https://docs.devexpress.co
 
 [Organize Pages in PDF Documents](https://docs.devexpress.com/OfficeFileAPI/119762/pdf-document-api/document-manipulation/page-manipulation#extract-a-page)
 
-
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
